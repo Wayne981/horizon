@@ -11,25 +11,22 @@ function HomePage() {
     <div className="homePage">
       <div className="textContainer">
         <div className="wrapper">
-          <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
+          <h1 className="title">Your Gateway to Best properties</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+          Browse exclusive listings, connect with experts to guide you every step of the way and secure your ideal home
           </p>
           <SearchBar />
           <div className="boxes">
-            <div className="box">
+            {/* <div className="box">
               <h1>16+</h1>
               <h2>Years of Experience</h2>
-            </div>
-            <div className="box">
+            </div> */}
+            {/*<div className="box">
               <h1>200</h1>
               <h2>Award Gained</h2>
-            </div>
+            </div>  */}
             <div className="box">
-              <h1>2000+</h1>
+              <h1>Numerous</h1>
               <h2>Property Ready</h2>
             </div>
           </div>

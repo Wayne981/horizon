@@ -146,7 +146,7 @@ function SinglePage() {
             <button
               onClick={handleSave}
               style={{
-                backgroundColor: saved ? "#fece51" : "white",
+                backgroundColor: saved ? "#00FFFF" : "white",
               }}
             >
               <img src="/save.png" alt="" />
