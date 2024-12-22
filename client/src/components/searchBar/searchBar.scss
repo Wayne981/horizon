@@ -74,7 +74,7 @@
 
     a{
       flex: 1;
-      background-color: #00FFFF;
+      background-color: #6495ED;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -82,7 +82,7 @@
       button {
         border: none;
         cursor: pointer;
-        background-color: #00FFFF;
+        background-color: #6495ED;
         
         @include sm{
           padding: 10px;
